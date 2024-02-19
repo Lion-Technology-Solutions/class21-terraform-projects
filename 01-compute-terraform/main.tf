@@ -6,7 +6,7 @@ resource "aws_instance" "class21-demo" {
 }
 
 
-  
+
 
 // ami 
 // instance_type 
